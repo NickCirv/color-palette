@@ -1,0 +1,35 @@
+{
+  "name": "color-palette",
+  "version": "1.0.0",
+  "description": "Terminal color tool — convert HEX/RGB/HSL/ANSI, generate palettes, WCAG contrast checker. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "color-palette": "./index.js",
+    "cpal": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "color",
+    "palette",
+    "ansi",
+    "terminal",
+    "design",
+    "css"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/color-palette.git"
+  },
+  "homepage": "https://github.com/NickCirv/color-palette#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/color-palette/issues"
+  },
+  "author": "NickCirv"
+}
