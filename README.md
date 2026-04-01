@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # color-palette
 
 Terminal color tool — convert HEX/RGB/HSL/ANSI, generate palettes, WCAG contrast checker. Zero dependencies.
